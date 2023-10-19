@@ -1,0 +1,2080 @@
++++++++++++++++++++++++++++++ Processing diccionarios dataset +++++++++++++++++++++++++++++ 
+
+---------------------------- md5crypt diccionarios/passwords.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.334s
+user	19m39.628s
+sys	0m4.359s
+john_33:1212:1033:1033::/home/john_33:/bin/sh
+john_44:4055:1044:1044::/home/john_44:/bin/sh
+
+2 password hashes cracked, 98 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.285s
+user	19m39.427s
+sys	0m3.805s
+john_3:blowme:1003:1003::/home/john_3:/bin/sh
+john_5:jordan:1005:1005::/home/john_5:/bin/sh
+john_7:christ1:1007:1007::/home/john_7:/bin/sh
+john_14:jethro:1014:1014::/home/john_14:/bin/sh
+john_15:binky:1015:1015::/home/john_15:/bin/sh
+john_26:bogey:1026:1026::/home/john_26:/bin/sh
+john_28:beer:1028:1028::/home/john_28:/bin/sh
+john_29:amelia:1029:1029::/home/john_29:/bin/sh
+john_33:1212:1033:1033::/home/john_33:/bin/sh
+john_34:susan1:1034:1034::/home/john_34:/bin/sh
+john_40:mommy:1040:1040::/home/john_40:/bin/sh
+john_43:angel1:1043:1043::/home/john_43:/bin/sh
+john_51:seven7:1051:1051::/home/john_51:/bin/sh
+john_58:carol1:1058:1058::/home/john_58:/bin/sh
+john_62:craig:1062:1062::/home/john_62:/bin/sh
+john_64:bradley:1064:1064::/home/john_64:/bin/sh
+john_66:joshua:1066:1066::/home/john_66:/bin/sh
+john_67:broker:1067:1067::/home/john_67:/bin/sh
+john_76:april:1076:1076::/home/john_76:/bin/sh
+john_77:andre:1077:1077::/home/john_77:/bin/sh
+john_83:mouse:1083:1083::/home/john_83:/bin/sh
+john_85:angie1:1085:1085::/home/john_85:/bin/sh
+john_89:koala:1089:1089::/home/john_89:/bin/sh
+
+23 password hashes cracked, 77 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.826s
+user	0m2.429s
+sys	0m0.166s
+john_3:blowme:1003:1003::/home/john_3:/bin/sh
+john_4:qazwsx:1004:1004::/home/john_4:/bin/sh
+john_5:jordan:1005:1005::/home/john_5:/bin/sh
+john_28:beer:1028:1028::/home/john_28:/bin/sh
+john_33:1212:1033:1033::/home/john_33:/bin/sh
+john_47:alex:1047:1047::/home/john_47:/bin/sh
+john_55:scooter:1055:1055::/home/john_55:/bin/sh
+john_66:joshua:1066:1066::/home/john_66:/bin/sh
+john_75:mustang:1075:1075::/home/john_75:/bin/sh
+john_95:loveme:1095:1095::/home/john_95:/bin/sh
+
+10 password hashes cracked, 90 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	2m52.672s
+user	10m42.890s
+sys	0m2.746s
+john_1:Hello:1001:1001::/home/john_1:/bin/sh
+john_2:biz:1002:1002::/home/john_2:/bin/sh
+john_3:blowme:1003:1003::/home/john_3:/bin/sh
+john_4:qazwsx:1004:1004::/home/john_4:/bin/sh
+john_5:jordan:1005:1005::/home/john_5:/bin/sh
+john_6:Jersey:1006:1006::/home/john_6:/bin/sh
+john_7:christ1:1007:1007::/home/john_7:/bin/sh
+john_8:otter:1008:1008::/home/john_8:/bin/sh
+john_9:gammaphi:1009:1009::/home/john_9:/bin/sh
+john_10:vampire:1010:1010::/home/john_10:/bin/sh
+john_11:truelove:1011:1011::/home/john_11:/bin/sh
+john_12:timber:1012:1012::/home/john_12:/bin/sh
+john_13:thrasher:1013:1013::/home/john_13:/bin/sh
+john_14:jethro:1014:1014::/home/john_14:/bin/sh
+john_15:binky:1015:1015::/home/john_15:/bin/sh
+john_16:lexus1:1016:1016::/home/john_16:/bin/sh
+john_17:aaa:1017:1017::/home/john_17:/bin/sh
+john_18:tokyo:1018:1018::/home/john_18:/bin/sh
+john_19:excel:1019:1019::/home/john_19:/bin/sh
+john_20:slick:1020:1020::/home/john_20:/bin/sh
+john_21:jesucristo:1021:1021::/home/john_21:/bin/sh
+john_22:dawn:1022:1022::/home/john_22:/bin/sh
+john_23:weezer:1023:1023::/home/john_23:/bin/sh
+john_24:legolas:1024:1024::/home/john_24:/bin/sh
+john_25:Raiders:1025:1025::/home/john_25:/bin/sh
+john_26:bogey:1026:1026::/home/john_26:/bin/sh
+john_27:spiderman:1027:1027::/home/john_27:/bin/sh
+john_28:beer:1028:1028::/home/john_28:/bin/sh
+john_29:amelia:1029:1029::/home/john_29:/bin/sh
+john_30:maxmax:1030:1030::/home/john_30:/bin/sh
+john_31:blowfish:1031:1031::/home/john_31:/bin/sh
+john_32:redrum:1032:1032::/home/john_32:/bin/sh
+john_33:1212:1033:1033::/home/john_33:/bin/sh
+john_34:susan1:1034:1034::/home/john_34:/bin/sh
+john_35:estelle:1035:1035::/home/john_35:/bin/sh
+john_36:dodger:1036:1036::/home/john_36:/bin/sh
+john_37:juhani:1037:1037::/home/john_37:/bin/sh
+john_38:people:1038:1038::/home/john_38:/bin/sh
+john_39:vedder:1039:1039::/home/john_39:/bin/sh
+john_40:mommy:1040:1040::/home/john_40:/bin/sh
+john_41:Front242:1041:1041::/home/john_41:/bin/sh
+john_42:eugene:1042:1042::/home/john_42:/bin/sh
+john_43:angel1:1043:1043::/home/john_43:/bin/sh
+john_45:chocolat:1045:1045::/home/john_45:/bin/sh
+john_46:hayden:1046:1046::/home/john_46:/bin/sh
+john_47:alex:1047:1047::/home/john_47:/bin/sh
+john_48:word:1048:1048::/home/john_48:/bin/sh
+john_49:support:1049:1049::/home/john_49:/bin/sh
+john_50:cows:1050:1050::/home/john_50:/bin/sh
+john_51:seven7:1051:1051::/home/john_51:/bin/sh
+john_52:special:1052:1052::/home/john_52:/bin/sh
+john_53:dawn:1053:1053::/home/john_53:/bin/sh
+john_54:FuckYou:1054:1054::/home/john_54:/bin/sh
+john_55:scooter:1055:1055::/home/john_55:/bin/sh
+john_56:natalie:1056:1056::/home/john_56:/bin/sh
+john_57:salmon:1057:1057::/home/john_57:/bin/sh
+john_58:carol1:1058:1058::/home/john_58:/bin/sh
+john_59:piano:1059:1059::/home/john_59:/bin/sh
+john_60:macross:1060:1060::/home/john_60:/bin/sh
+john_61:tootsie:1061:1061::/home/john_61:/bin/sh
+john_62:craig:1062:1062::/home/john_62:/bin/sh
+john_63:impact:1063:1063::/home/john_63:/bin/sh
+john_64:bradley:1064:1064::/home/john_64:/bin/sh
+john_65:bestfriend:1065:1065::/home/john_65:/bin/sh
+john_66:joshua:1066:1066::/home/john_66:/bin/sh
+john_67:broker:1067:1067::/home/john_67:/bin/sh
+john_68:abcd123:1068:1068::/home/john_68:/bin/sh
+john_69:johncena:1069:1069::/home/john_69:/bin/sh
+john_70:cornflake:1070:1070::/home/john_70:/bin/sh
+john_71:happyday:1071:1071::/home/john_71:/bin/sh
+john_72:greg:1072:1072::/home/john_72:/bin/sh
+john_73:altima:1073:1073::/home/john_73:/bin/sh
+john_74:dollar:1074:1074::/home/john_74:/bin/sh
+john_75:mustang:1075:1075::/home/john_75:/bin/sh
+john_76:april:1076:1076::/home/john_76:/bin/sh
+john_77:andre:1077:1077::/home/john_77:/bin/sh
+john_78:pandora:1078:1078::/home/john_78:/bin/sh
+john_79:ursula:1079:1079::/home/john_79:/bin/sh
+john_80:purple1:1080:1080::/home/john_80:/bin/sh
+john_81:harriet:1081:1081::/home/john_81:/bin/sh
+john_82:aerobics:1082:1082::/home/john_82:/bin/sh
+john_83:mouse:1083:1083::/home/john_83:/bin/sh
+john_84:1701d:1084:1084::/home/john_84:/bin/sh
+john_85:angie1:1085:1085::/home/john_85:/bin/sh
+john_86:hootie:1086:1086::/home/john_86:/bin/sh
+john_87:Pentium:1087:1087::/home/john_87:/bin/sh
+john_88:chouette:1088:1088::/home/john_88:/bin/sh
+john_89:koala:1089:1089::/home/john_89:/bin/sh
+john_90:smurfy:1090:1090::/home/john_90:/bin/sh
+john_91:drowssap:1091:1091::/home/john_91:/bin/sh
+john_92:jenifer:1092:1092::/home/john_92:/bin/sh
+john_93:lucifer:1093:1093::/home/john_93:/bin/sh
+john_94:hedgehog:1094:1094::/home/john_94:/bin/sh
+john_95:loveme:1095:1095::/home/john_95:/bin/sh
+john_96:venice:1096:1096::/home/john_96:/bin/sh
+john_97:smiley:1097:1097::/home/john_97:/bin/sh
+john_98:xxxxxx:1098:1098::/home/john_98:/bin/sh
+john_99:radar:1099:1099::/home/john_99:/bin/sh
+john_100:buffett:1100:1100::/home/john_100:/bin/sh
+
+99 password hashes cracked, 1 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.262s
+user	19m32.363s
+sys	0m6.617s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt diccionarios/passwords.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.992s
+user	19m44.930s
+sys	0m1.302s
+john_33:1212:1033:1033::/home/john_33:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.706s
+user	19m47.110s
+sys	0m0.940s
+john_33:1212:1033:1033::/home/john_33:/bin/sh
+john_40:mommy:1040:1040::/home/john_40:/bin/sh
+john_77:andre:1077:1077::/home/john_77:/bin/sh
+
+3 password hashes cracked, 97 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m16.897s
+user	1m5.523s
+sys	0m0.209s
+john_3:blowme:1003:1003::/home/john_3:/bin/sh
+john_4:qazwsx:1004:1004::/home/john_4:/bin/sh
+john_5:jordan:1005:1005::/home/john_5:/bin/sh
+john_28:beer:1028:1028::/home/john_28:/bin/sh
+john_33:1212:1033:1033::/home/john_33:/bin/sh
+john_47:alex:1047:1047::/home/john_47:/bin/sh
+john_55:scooter:1055:1055::/home/john_55:/bin/sh
+john_66:joshua:1066:1066::/home/john_66:/bin/sh
+john_75:mustang:1075:1075::/home/john_75:/bin/sh
+john_95:loveme:1095:1095::/home/john_95:/bin/sh
+
+10 password hashes cracked, 90 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m1.679s
+user	19m37.469s
+sys	0m1.678s
+john_3:blowme:1003:1003::/home/john_3:/bin/sh
+john_4:qazwsx:1004:1004::/home/john_4:/bin/sh
+john_5:jordan:1005:1005::/home/john_5:/bin/sh
+john_7:christ1:1007:1007::/home/john_7:/bin/sh
+john_10:vampire:1010:1010::/home/john_10:/bin/sh
+john_11:truelove:1011:1011::/home/john_11:/bin/sh
+john_12:timber:1012:1012::/home/john_12:/bin/sh
+john_13:thrasher:1013:1013::/home/john_13:/bin/sh
+john_14:jethro:1014:1014::/home/john_14:/bin/sh
+john_15:binky:1015:1015::/home/john_15:/bin/sh
+john_21:jesucristo:1021:1021::/home/john_21:/bin/sh
+john_23:weezer:1023:1023::/home/john_23:/bin/sh
+john_24:legolas:1024:1024::/home/john_24:/bin/sh
+john_27:spiderman:1027:1027::/home/john_27:/bin/sh
+john_29:amelia:1029:1029::/home/john_29:/bin/sh
+john_30:maxmax:1030:1030::/home/john_30:/bin/sh
+john_32:redrum:1032:1032::/home/john_32:/bin/sh
+john_34:susan1:1034:1034::/home/john_34:/bin/sh
+john_35:estelle:1035:1035::/home/john_35:/bin/sh
+john_36:dodger:1036:1036::/home/john_36:/bin/sh
+john_38:people:1038:1038::/home/john_38:/bin/sh
+john_40:mommy:1040:1040::/home/john_40:/bin/sh
+john_42:eugene:1042:1042::/home/john_42:/bin/sh
+john_43:angel1:1043:1043::/home/john_43:/bin/sh
+john_45:chocolat:1045:1045::/home/john_45:/bin/sh
+john_46:hayden:1046:1046::/home/john_46:/bin/sh
+john_47:alex:1047:1047::/home/john_47:/bin/sh
+john_51:seven7:1051:1051::/home/john_51:/bin/sh
+john_52:special:1052:1052::/home/john_52:/bin/sh
+john_55:scooter:1055:1055::/home/john_55:/bin/sh
+john_56:natalie:1056:1056::/home/john_56:/bin/sh
+john_57:salmon:1057:1057::/home/john_57:/bin/sh
+john_58:carol1:1058:1058::/home/john_58:/bin/sh
+john_59:piano:1059:1059::/home/john_59:/bin/sh
+john_61:tootsie:1061:1061::/home/john_61:/bin/sh
+john_62:craig:1062:1062::/home/john_62:/bin/sh
+john_64:bradley:1064:1064::/home/john_64:/bin/sh
+john_65:bestfriend:1065:1065::/home/john_65:/bin/sh
+john_66:joshua:1066:1066::/home/john_66:/bin/sh
+john_68:abcd123:1068:1068::/home/john_68:/bin/sh
+john_69:johncena:1069:1069::/home/john_69:/bin/sh
+john_71:happyday:1071:1071::/home/john_71:/bin/sh
+john_73:altima:1073:1073::/home/john_73:/bin/sh
+john_74:dollar:1074:1074::/home/john_74:/bin/sh
+john_75:mustang:1075:1075::/home/john_75:/bin/sh
+john_76:april:1076:1076::/home/john_76:/bin/sh
+john_77:andre:1077:1077::/home/john_77:/bin/sh
+john_78:pandora:1078:1078::/home/john_78:/bin/sh
+john_79:ursula:1079:1079::/home/john_79:/bin/sh
+john_80:purple1:1080:1080::/home/john_80:/bin/sh
+john_81:harriet:1081:1081::/home/john_81:/bin/sh
+john_83:mouse:1083:1083::/home/john_83:/bin/sh
+john_85:angie1:1085:1085::/home/john_85:/bin/sh
+john_86:hootie:1086:1086::/home/john_86:/bin/sh
+john_89:koala:1089:1089::/home/john_89:/bin/sh
+john_91:drowssap:1091:1091::/home/john_91:/bin/sh
+john_92:jenifer:1092:1092::/home/john_92:/bin/sh
+john_93:lucifer:1093:1093::/home/john_93:/bin/sh
+john_94:hedgehog:1094:1094::/home/john_94:/bin/sh
+john_95:loveme:1095:1095::/home/john_95:/bin/sh
+john_96:venice:1096:1096::/home/john_96:/bin/sh
+john_97:smiley:1097:1097::/home/john_97:/bin/sh
+john_98:xxxxxx:1098:1098::/home/john_98:/bin/sh
+
+63 password hashes cracked, 37 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.681s
+user	19m48.531s
+sys	0m0.739s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt diccionarios/wordle.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.269s
+user	19m47.817s
+sys	0m2.714s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.245s
+user	19m43.012s
+sys	0m3.144s
+john_9:lovie:1009:1009::/home/john_9:/bin/sh
+john_13:bacco:1013:1013::/home/john_13:/bin/sh
+john_16:cered:1016:1016::/home/john_16:/bin/sh
+john_19:clies:1019:1019::/home/john_19:/bin/sh
+john_29:micas:1029:1029::/home/john_29:/bin/sh
+john_31:pauls:1031:1031::/home/john_31:/bin/sh
+john_40:paolo:1040:1040::/home/john_40:/bin/sh
+john_41:kombu:1041:1041::/home/john_41:/bin/sh
+john_43:kaiks:1043:1043::/home/john_43:/bin/sh
+john_44:beals:1044:1044::/home/john_44:/bin/sh
+john_45:lucks:1045:1045::/home/john_45:/bin/sh
+john_46:swath:1046:1046::/home/john_46:/bin/sh
+john_48:mesel:1048:1048::/home/john_48:/bin/sh
+john_50:bodgy:1050:1050::/home/john_50:/bin/sh
+john_52:liber:1052:1052::/home/john_52:/bin/sh
+john_53:cesta:1053:1053::/home/john_53:/bin/sh
+john_59:murra:1059:1059::/home/john_59:/bin/sh
+john_62:motor:1062:1062::/home/john_62:/bin/sh
+john_65:magot:1065:1065::/home/john_65:/bin/sh
+john_66:derry:1066:1066::/home/john_66:/bin/sh
+john_68:lamby:1068:1068::/home/john_68:/bin/sh
+john_77:jeans:1077:1077::/home/john_77:/bin/sh
+john_82:apeak:1082:1082::/home/john_82:/bin/sh
+john_85:kindy:1085:1085::/home/john_85:/bin/sh
+john_87:preys:1087:1087::/home/john_87:/bin/sh
+john_88:chawk:1088:1088::/home/john_88:/bin/sh
+john_90:mules:1090:1090::/home/john_90:/bin/sh
+john_92:kails:1092:1092::/home/john_92:/bin/sh
+john_94:softy:1094:1094::/home/john_94:/bin/sh
+john_95:binge:1095:1095::/home/john_95:/bin/sh
+john_98:borde:1098:1098::/home/john_98:/bin/sh
+
+31 password hashes cracked, 69 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.655s
+user	0m2.021s
+sys	0m0.110s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.239s
+user	19m42.585s
+sys	0m3.632s
+john_8:under:1008:1008::/home/john_8:/bin/sh
+john_9:lovie:1009:1009::/home/john_9:/bin/sh
+john_11:flore:1011:1011::/home/john_11:/bin/sh
+john_15:recon:1015:1015::/home/john_15:/bin/sh
+john_24:yoyos:1024:1024::/home/john_24:/bin/sh
+john_25:robot:1025:1025::/home/john_25:/bin/sh
+john_29:micas:1029:1029::/home/john_29:/bin/sh
+john_31:pauls:1031:1031::/home/john_31:/bin/sh
+john_36:texts:1036:1036::/home/john_36:/bin/sh
+john_37:prima:1037:1037::/home/john_37:/bin/sh
+john_39:sport:1039:1039::/home/john_39:/bin/sh
+john_40:paolo:1040:1040::/home/john_40:/bin/sh
+john_52:liber:1052:1052::/home/john_52:/bin/sh
+john_60:dashi:1060:1060::/home/john_60:/bin/sh
+john_62:motor:1062:1062::/home/john_62:/bin/sh
+john_66:derry:1066:1066::/home/john_66:/bin/sh
+john_68:lamby:1068:1068::/home/john_68:/bin/sh
+john_70:bardo:1070:1070::/home/john_70:/bin/sh
+john_73:rolls:1073:1073::/home/john_73:/bin/sh
+john_77:jeans:1077:1077::/home/john_77:/bin/sh
+john_85:kindy:1085:1085::/home/john_85:/bin/sh
+john_94:softy:1094:1094::/home/john_94:/bin/sh
+john_95:binge:1095:1095::/home/john_95:/bin/sh
+
+23 password hashes cracked, 77 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.235s
+user	19m45.228s
+sys	0m3.383s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt diccionarios/wordle.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.673s
+user	19m50.315s
+sys	0m0.820s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.687s
+user	19m40.524s
+sys	0m0.930s
+john_29:micas:1029:1029::/home/john_29:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m19.623s
+user	1m15.416s
+sys	0m0.210s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.812s
+user	19m41.052s
+sys	0m1.758s
+john_40:paolo:1040:1040::/home/john_40:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.758s
+user	19m42.691s
+sys	0m0.839s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt diccionarios/wordle_nums.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.254s
+user	19m40.380s
+sys	0m4.147s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.276s
+user	19m33.506s
+sys	0m4.770s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.665s
+user	0m2.120s
+sys	0m0.083s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.239s
+user	19m32.375s
+sys	0m6.269s
+john_35:lance09:1035:1035::/home/john_35:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.234s
+user	19m22.654s
+sys	0m10.614s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt diccionarios/wordle_nums.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.666s
+user	19m36.750s
+sys	0m1.652s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.786s
+user	19m43.723s
+sys	0m2.053s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m18.740s
+user	1m12.500s
+sys	0m0.192s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.874s
+user	19m47.862s
+sys	0m0.999s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m1.534s
+user	19m39.631s
+sys	0m4.272s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt diccionarios/words.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.253s
+user	19m47.107s
+sys	0m2.996s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.244s
+user	19m42.364s
+sys	0m3.645s
+john_10:ashlers:1010:1010::/home/john_10:/bin/sh
+john_32:bibles:1032:1032::/home/john_32:/bin/sh
+john_53:bunter:1053:1053::/home/john_53:/bin/sh
+john_63:star:1063:1063::/home/john_63:/bin/sh
+john_85:chumpy:1085:1085::/home/john_85:/bin/sh
+john_86:brey:1086:1086::/home/john_86:/bin/sh
+
+6 password hashes cracked, 94 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.688s
+user	0m2.142s
+sys	0m0.093s
+john_63:star:1063:1063::/home/john_63:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.239s
+user	19m47.447s
+sys	0m2.323s
+john_14:tulisan:1014:1014::/home/john_14:/bin/sh
+john_17:yender:1017:1017::/home/john_17:/bin/sh
+john_27:kotoko:1027:1027::/home/john_27:/bin/sh
+john_31:matchmaker:1031:1031::/home/john_31:/bin/sh
+john_32:bibles:1032:1032::/home/john_32:/bin/sh
+john_52:pigface:1052:1052::/home/john_52:/bin/sh
+john_53:bunter:1053:1053::/home/john_53:/bin/sh
+john_63:star:1063:1063::/home/john_63:/bin/sh
+john_85:chumpy:1085:1085::/home/john_85:/bin/sh
+
+9 password hashes cracked, 91 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.249s
+user	19m45.209s
+sys	0m2.493s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt diccionarios/words.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m1.000s
+user	19m43.818s
+sys	0m2.153s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.039s
+user	19m45.468s
+sys	0m1.890s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m16.139s
+user	1m2.539s
+sys	0m0.220s
+john_63:star:1063:1063::/home/john_63:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.743s
+user	19m49.445s
+sys	0m0.900s
+john_63:star:1063:1063::/home/john_63:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.657s
+user	19m50.692s
+sys	0m0.590s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt diccionarios/words_nums.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.255s
+user	19m46.485s
+sys	0m2.203s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.273s
+user	19m43.566s
+sys	0m2.544s
+john_67:chum15:1067:1067::/home/john_67:/bin/sh
+john_89:artha10:1089:1089::/home/john_89:/bin/sh
+
+2 password hashes cracked, 98 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.646s
+user	0m2.034s
+sys	0m0.081s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.247s
+user	19m43.451s
+sys	0m3.144s
+john_74:hon23:1074:1074::/home/john_74:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.239s
+user	19m43.388s
+sys	0m2.335s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt diccionarios/words_nums.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.805s
+user	19m51.864s
+sys	0m0.490s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.640s
+user	19m45.119s
+sys	0m1.090s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m16.034s
+user	1m2.490s
+sys	0m0.110s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m1.694s
+user	19m50.605s
+sys	0m0.730s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.682s
+user	19m43.721s
+sys	0m1.640s
+0 password hashes cracked, 100 left
++++++++++++++++++++++++++++++ Processing digitos dataset +++++++++++++++++++++++++++++ 
+
+---------------------------- md5crypt digitos/len3.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.251s
+user	19m5.323s
+sys	0m13.182s
+john_5:224:1005:1005::/home/john_5:/bin/sh
+john_13:400:1013:1013::/home/john_13:/bin/sh
+john_15:245:1015:1015::/home/john_15:/bin/sh
+john_18:215:1018:1018::/home/john_18:/bin/sh
+john_31:102:1031:1031::/home/john_31:/bin/sh
+john_38:113:1038:1038::/home/john_38:/bin/sh
+john_48:248:1048:1048::/home/john_48:/bin/sh
+john_51:317:1051:1051::/home/john_51:/bin/sh
+john_54:043:1054:1054::/home/john_54:/bin/sh
+john_58:425:1058:1058::/home/john_58:/bin/sh
+john_71:361:1071:1071::/home/john_71:/bin/sh
+john_84:400:1084:1084::/home/john_84:/bin/sh
+john_86:419:1086:1086::/home/john_86:/bin/sh
+john_91:407:1091:1091::/home/john_91:/bin/sh
+
+14 password hashes cracked, 86 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.268s
+user	19m15.812s
+sys	0m9.507s
+john_17:140:1017:1017::/home/john_17:/bin/sh
+john_31:102:1031:1031::/home/john_31:/bin/sh
+john_38:113:1038:1038::/home/john_38:/bin/sh
+
+3 password hashes cracked, 97 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.764s
+user	0m2.333s
+sys	0m0.113s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.247s
+user	18m35.993s
+sys	0m9.088s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.298s
+user	19m28.648s
+sys	0m7.009s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt digitos/len3.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.856s
+user	19m27.652s
+sys	0m5.036s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.642s
+user	19m35.576s
+sys	0m1.851s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m17.329s
+user	1m7.038s
+sys	0m0.131s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.691s
+user	19m39.069s
+sys	0m2.489s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.716s
+user	19m46.726s
+sys	0m0.679s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt digitos/len4.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	4m8.465s
+user	16m4.357s
+sys	0m2.741s
+john_1:4243:1001:1001::/home/john_1:/bin/sh
+john_2:5874:1002:1002::/home/john_2:/bin/sh
+john_3:0401:1003:1003::/home/john_3:/bin/sh
+john_4:4121:1004:1004::/home/john_4:/bin/sh
+john_5:1681:1005:1005::/home/john_5:/bin/sh
+john_6:3009:1006:1006::/home/john_6:/bin/sh
+john_7:6796:1007:1007::/home/john_7:/bin/sh
+john_8:0484:1008:1008::/home/john_8:/bin/sh
+john_9:9869:1009:1009::/home/john_9:/bin/sh
+john_10:9170:1010:1010::/home/john_10:/bin/sh
+john_11:3444:1011:1011::/home/john_11:/bin/sh
+john_12:6145:1012:1012::/home/john_12:/bin/sh
+john_13:8811:1013:1013::/home/john_13:/bin/sh
+john_14:0573:1014:1014::/home/john_14:/bin/sh
+john_15:9555:1015:1015::/home/john_15:/bin/sh
+john_16:4756:1016:1016::/home/john_16:/bin/sh
+john_17:2494:1017:1017::/home/john_17:/bin/sh
+john_18:8280:1018:1018::/home/john_18:/bin/sh
+john_19:5271:1019:1019::/home/john_19:/bin/sh
+john_20:1091:1020:1020::/home/john_20:/bin/sh
+john_21:1856:1021:1021::/home/john_21:/bin/sh
+john_22:5208:1022:1022::/home/john_22:/bin/sh
+john_23:2080:1023:1023::/home/john_23:/bin/sh
+john_24:3627:1024:1024::/home/john_24:/bin/sh
+john_25:8123:1025:1025::/home/john_25:/bin/sh
+john_26:2664:1026:1026::/home/john_26:/bin/sh
+john_27:4828:1027:1027::/home/john_27:/bin/sh
+john_28:4969:1028:1028::/home/john_28:/bin/sh
+john_29:6272:1029:1029::/home/john_29:/bin/sh
+john_30:4729:1030:1030::/home/john_30:/bin/sh
+john_31:9417:1031:1031::/home/john_31:/bin/sh
+john_32:3110:1032:1032::/home/john_32:/bin/sh
+john_33:0194:1033:1033::/home/john_33:/bin/sh
+john_34:0962:1034:1034::/home/john_34:/bin/sh
+john_35:6382:1035:1035::/home/john_35:/bin/sh
+john_36:4259:1036:1036::/home/john_36:/bin/sh
+john_37:5764:1037:1037::/home/john_37:/bin/sh
+john_38:2914:1038:1038::/home/john_38:/bin/sh
+john_39:1427:1039:1039::/home/john_39:/bin/sh
+john_40:2130:1040:1040::/home/john_40:/bin/sh
+john_41:2046:1041:1041::/home/john_41:/bin/sh
+john_42:2140:1042:1042::/home/john_42:/bin/sh
+john_43:7028:1043:1043::/home/john_43:/bin/sh
+john_44:2738:1044:1044::/home/john_44:/bin/sh
+john_45:7929:1045:1045::/home/john_45:/bin/sh
+john_46:5963:1046:1046::/home/john_46:/bin/sh
+john_47:8709:1047:1047::/home/john_47:/bin/sh
+john_48:5125:1048:1048::/home/john_48:/bin/sh
+john_49:7569:1049:1049::/home/john_49:/bin/sh
+john_50:6927:1050:1050::/home/john_50:/bin/sh
+john_51:9506:1051:1051::/home/john_51:/bin/sh
+john_52:2054:1052:1052::/home/john_52:/bin/sh
+john_53:7669:1053:1053::/home/john_53:/bin/sh
+john_54:8071:1054:1054::/home/john_54:/bin/sh
+john_55:2067:1055:1055::/home/john_55:/bin/sh
+john_56:4066:1056:1056::/home/john_56:/bin/sh
+john_57:8141:1057:1057::/home/john_57:/bin/sh
+john_58:0321:1058:1058::/home/john_58:/bin/sh
+john_59:1930:1059:1059::/home/john_59:/bin/sh
+john_60:1220:1060:1060::/home/john_60:/bin/sh
+john_61:5807:1061:1061::/home/john_61:/bin/sh
+john_62:2853:1062:1062::/home/john_62:/bin/sh
+john_63:4691:1063:1063::/home/john_63:/bin/sh
+john_64:4684:1064:1064::/home/john_64:/bin/sh
+john_65:1137:1065:1065::/home/john_65:/bin/sh
+john_66:8444:1066:1066::/home/john_66:/bin/sh
+john_67:4441:1067:1067::/home/john_67:/bin/sh
+john_68:7336:1068:1068::/home/john_68:/bin/sh
+john_69:2935:1069:1069::/home/john_69:/bin/sh
+john_70:6421:1070:1070::/home/john_70:/bin/sh
+john_71:0587:1071:1071::/home/john_71:/bin/sh
+john_72:9469:1072:1072::/home/john_72:/bin/sh
+john_73:7954:1073:1073::/home/john_73:/bin/sh
+john_74:6626:1074:1074::/home/john_74:/bin/sh
+john_75:0807:1075:1075::/home/john_75:/bin/sh
+john_76:0078:1076:1076::/home/john_76:/bin/sh
+john_77:8081:1077:1077::/home/john_77:/bin/sh
+john_78:3780:1078:1078::/home/john_78:/bin/sh
+john_79:4894:1079:1079::/home/john_79:/bin/sh
+john_80:4968:1080:1080::/home/john_80:/bin/sh
+john_81:6552:1081:1081::/home/john_81:/bin/sh
+john_82:4310:1082:1082::/home/john_82:/bin/sh
+john_83:6995:1083:1083::/home/john_83:/bin/sh
+john_84:0655:1084:1084::/home/john_84:/bin/sh
+john_85:1760:1085:1085::/home/john_85:/bin/sh
+john_86:3283:1086:1086::/home/john_86:/bin/sh
+john_87:0424:1087:1087::/home/john_87:/bin/sh
+john_88:1929:1088:1088::/home/john_88:/bin/sh
+john_89:9015:1089:1089::/home/john_89:/bin/sh
+john_90:3058:1090:1090::/home/john_90:/bin/sh
+john_91:6726:1091:1091::/home/john_91:/bin/sh
+john_92:6031:1092:1092::/home/john_92:/bin/sh
+john_93:8774:1093:1093::/home/john_93:/bin/sh
+john_94:3960:1094:1094::/home/john_94:/bin/sh
+john_95:4648:1095:1095::/home/john_95:/bin/sh
+john_96:3989:1096:1096::/home/john_96:/bin/sh
+john_97:2617:1097:1097::/home/john_97:/bin/sh
+john_98:2751:1098:1098::/home/john_98:/bin/sh
+john_99:6834:1099:1099::/home/john_99:/bin/sh
+john_100:0309:1100:1100::/home/john_100:/bin/sh
+
+100 password hashes cracked, 0 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m3.265s
+user	19m26.927s
+sys	0m4.476s
+john_20:1091:1020:1020::/home/john_20:/bin/sh
+john_23:2080:1023:1023::/home/john_23:/bin/sh
+john_26:2664:1026:1026::/home/john_26:/bin/sh
+john_39:1427:1039:1039::/home/john_39:/bin/sh
+john_40:2130:1040:1040::/home/john_40:/bin/sh
+john_41:2046:1041:1041::/home/john_41:/bin/sh
+john_42:2140:1042:1042::/home/john_42:/bin/sh
+john_52:2054:1052:1052::/home/john_52:/bin/sh
+john_55:2067:1055:1055::/home/john_55:/bin/sh
+john_60:1220:1060:1060::/home/john_60:/bin/sh
+john_88:1929:1088:1088::/home/john_88:/bin/sh
+john_97:2617:1097:1097::/home/john_97:/bin/sh
+
+12 password hashes cracked, 88 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.674s
+user	0m2.116s
+sys	0m0.090s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m1.247s
+user	19m45.366s
+sys	0m2.867s
+john_32:3110:1032:1032::/home/john_32:/bin/sh
+john_39:1427:1039:1039::/home/john_39:/bin/sh
+john_60:1220:1060:1060::/home/john_60:/bin/sh
+john_87:0424:1087:1087::/home/john_87:/bin/sh
+
+4 password hashes cracked, 96 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.259s
+user	19m44.701s
+sys	0m2.333s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt digitos/len4.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.743s
+user	19m51.524s
+sys	0m0.569s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.663s
+user	19m31.985s
+sys	0m4.718s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m16.882s
+user	1m5.361s
+sys	0m0.222s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.795s
+user	19m32.623s
+sys	0m2.079s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m2.692s
+user	19m35.602s
+sys	0m2.912s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt digitos/len5.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.229s
+user	19m30.887s
+sys	0m6.183s
+john_1:45286:1001:1001::/home/john_1:/bin/sh
+john_6:47856:1006:1006::/home/john_6:/bin/sh
+john_8:00152:1008:1008::/home/john_8:/bin/sh
+john_9:05216:1009:1009::/home/john_9:/bin/sh
+john_12:27129:1012:1012::/home/john_12:/bin/sh
+john_13:44556:1013:1013::/home/john_13:/bin/sh
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+john_16:02594:1016:1016::/home/john_16:/bin/sh
+john_19:34996:1019:1019::/home/john_19:/bin/sh
+john_21:51461:1021:1021::/home/john_21:/bin/sh
+john_23:06941:1023:1023::/home/john_23:/bin/sh
+john_24:23350:1024:1024::/home/john_24:/bin/sh
+john_25:17409:1025:1025::/home/john_25:/bin/sh
+john_27:19253:1027:1027::/home/john_27:/bin/sh
+john_28:55132:1028:1028::/home/john_28:/bin/sh
+john_31:45392:1031:1031::/home/john_31:/bin/sh
+john_32:57107:1032:1032::/home/john_32:/bin/sh
+john_34:48250:1034:1034::/home/john_34:/bin/sh
+john_35:25612:1035:1035::/home/john_35:/bin/sh
+john_37:32888:1037:1037::/home/john_37:/bin/sh
+john_38:10264:1038:1038::/home/john_38:/bin/sh
+john_39:52899:1039:1039::/home/john_39:/bin/sh
+john_40:09348:1040:1040::/home/john_40:/bin/sh
+john_41:46123:1041:1041::/home/john_41:/bin/sh
+john_43:43175:1043:1043::/home/john_43:/bin/sh
+john_44:03491:1044:1044::/home/john_44:/bin/sh
+john_45:05076:1045:1045::/home/john_45:/bin/sh
+john_46:12790:1046:1046::/home/john_46:/bin/sh
+john_53:28260:1053:1053::/home/john_53:/bin/sh
+john_54:58590:1054:1054::/home/john_54:/bin/sh
+john_55:40606:1055:1055::/home/john_55:/bin/sh
+john_57:39870:1057:1057::/home/john_57:/bin/sh
+john_58:18600:1058:1058::/home/john_58:/bin/sh
+john_59:30383:1059:1059::/home/john_59:/bin/sh
+john_60:13174:1060:1060::/home/john_60:/bin/sh
+john_61:26819:1061:1061::/home/john_61:/bin/sh
+john_65:21022:1065:1065::/home/john_65:/bin/sh
+john_68:21368:1068:1068::/home/john_68:/bin/sh
+john_69:54762:1069:1069::/home/john_69:/bin/sh
+john_71:42157:1071:1071::/home/john_71:/bin/sh
+john_73:18571:1073:1073::/home/john_73:/bin/sh
+john_74:54422:1074:1074::/home/john_74:/bin/sh
+john_75:56011:1075:1075::/home/john_75:/bin/sh
+john_77:30539:1077:1077::/home/john_77:/bin/sh
+john_80:42150:1080:1080::/home/john_80:/bin/sh
+john_81:15543:1081:1081::/home/john_81:/bin/sh
+john_82:55132:1082:1082::/home/john_82:/bin/sh
+john_83:04958:1083:1083::/home/john_83:/bin/sh
+john_84:13850:1084:1084::/home/john_84:/bin/sh
+john_85:09986:1085:1085::/home/john_85:/bin/sh
+john_86:54386:1086:1086::/home/john_86:/bin/sh
+john_87:14709:1087:1087::/home/john_87:/bin/sh
+john_88:47054:1088:1088::/home/john_88:/bin/sh
+john_90:12204:1090:1090::/home/john_90:/bin/sh
+john_92:06320:1092:1092::/home/john_92:/bin/sh
+john_93:11282:1093:1093::/home/john_93:/bin/sh
+john_94:26548:1094:1094::/home/john_94:/bin/sh
+john_97:12058:1097:1097::/home/john_97:/bin/sh
+john_98:37687:1098:1098::/home/john_98:/bin/sh
+john_99:48641:1099:1099::/home/john_99:/bin/sh
+
+60 password hashes cracked, 40 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.250s
+user	19m35.738s
+sys	0m2.574s
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+john_25:17409:1025:1025::/home/john_25:/bin/sh
+john_27:19253:1027:1027::/home/john_27:/bin/sh
+john_38:10264:1038:1038::/home/john_38:/bin/sh
+john_46:12790:1046:1046::/home/john_46:/bin/sh
+john_58:18600:1058:1058::/home/john_58:/bin/sh
+john_81:15543:1081:1081::/home/john_81:/bin/sh
+john_84:13850:1084:1084::/home/john_84:/bin/sh
+john_93:11282:1093:1093::/home/john_93:/bin/sh
+
+9 password hashes cracked, 91 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.678s
+user	0m2.066s
+sys	0m0.110s
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.692s
+user	19m43.471s
+sys	0m2.654s
+john_13:44556:1013:1013::/home/john_13:/bin/sh
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+john_46:12790:1046:1046::/home/john_46:/bin/sh
+john_65:21022:1065:1065::/home/john_65:/bin/sh
+john_87:14709:1087:1087::/home/john_87:/bin/sh
+
+5 password hashes cracked, 95 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m2.247s
+user	19m48.513s
+sys	0m2.744s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt digitos/len5.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.673s
+user	19m44.129s
+sys	0m0.549s
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+john_65:21022:1065:1065::/home/john_65:/bin/sh
+
+2 password hashes cracked, 98 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.702s
+user	19m48.285s
+sys	0m0.809s
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.780s
+user	1m1.352s
+sys	0m0.130s
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m3.718s
+user	19m45.546s
+sys	0m0.759s
+john_14:12345:1014:1014::/home/john_14:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m1.771s
+user	19m50.828s
+sys	0m0.589s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt digitos/len6.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.301s
+user	19m31.857s
+sys	0m3.694s
+john_1:380651:1001:1001::/home/john_1:/bin/sh
+john_2:037552:1002:1002::/home/john_2:/bin/sh
+john_3:626790:1003:1003::/home/john_3:/bin/sh
+john_4:810826:1004:1004::/home/john_4:/bin/sh
+john_6:172765:1006:1006::/home/john_6:/bin/sh
+john_9:324404:1009:1009::/home/john_9:/bin/sh
+john_10:928799:1010:1010::/home/john_10:/bin/sh
+john_11:265687:1011:1011::/home/john_11:/bin/sh
+john_12:171829:1012:1012::/home/john_12:/bin/sh
+john_14:890208:1014:1014::/home/john_14:/bin/sh
+john_15:914528:1015:1015::/home/john_15:/bin/sh
+john_16:395883:1016:1016::/home/john_16:/bin/sh
+john_19:811127:1019:1019::/home/john_19:/bin/sh
+john_20:092428:1020:1020::/home/john_20:/bin/sh
+john_21:877848:1021:1021::/home/john_21:/bin/sh
+john_23:649560:1023:1023::/home/john_23:/bin/sh
+john_24:157104:1024:1024::/home/john_24:/bin/sh
+john_25:236413:1025:1025::/home/john_25:/bin/sh
+john_26:136567:1026:1026::/home/john_26:/bin/sh
+john_27:996083:1027:1027::/home/john_27:/bin/sh
+john_29:394449:1029:1029::/home/john_29:/bin/sh
+john_30:055010:1030:1030::/home/john_30:/bin/sh
+john_32:368366:1032:1032::/home/john_32:/bin/sh
+john_34:952798:1034:1034::/home/john_34:/bin/sh
+john_35:866614:1035:1035::/home/john_35:/bin/sh
+john_36:211452:1036:1036::/home/john_36:/bin/sh
+john_38:365192:1038:1038::/home/john_38:/bin/sh
+john_39:674626:1039:1039::/home/john_39:/bin/sh
+john_41:662375:1041:1041::/home/john_41:/bin/sh
+john_42:212422:1042:1042::/home/john_42:/bin/sh
+john_44:396763:1044:1044::/home/john_44:/bin/sh
+john_45:016404:1045:1045::/home/john_45:/bin/sh
+john_46:192968:1046:1046::/home/john_46:/bin/sh
+john_48:120582:1048:1048::/home/john_48:/bin/sh
+john_50:828771:1050:1050::/home/john_50:/bin/sh
+john_51:876357:1051:1051::/home/john_51:/bin/sh
+john_52:320961:1052:1052::/home/john_52:/bin/sh
+john_53:078122:1053:1053::/home/john_53:/bin/sh
+john_54:601466:1054:1054::/home/john_54:/bin/sh
+john_55:125968:1055:1055::/home/john_55:/bin/sh
+john_56:294362:1056:1056::/home/john_56:/bin/sh
+john_57:396419:1057:1057::/home/john_57:/bin/sh
+john_58:273539:1058:1058::/home/john_58:/bin/sh
+john_64:993552:1064:1064::/home/john_64:/bin/sh
+john_65:345010:1065:1065::/home/john_65:/bin/sh
+john_66:866719:1066:1066::/home/john_66:/bin/sh
+john_68:065972:1068:1068::/home/john_68:/bin/sh
+john_70:285768:1070:1070::/home/john_70:/bin/sh
+john_71:936580:1071:1071::/home/john_71:/bin/sh
+john_74:956432:1074:1074::/home/john_74:/bin/sh
+john_75:866985:1075:1075::/home/john_75:/bin/sh
+john_78:967793:1078:1078::/home/john_78:/bin/sh
+john_79:288964:1079:1079::/home/john_79:/bin/sh
+john_82:119113:1082:1082::/home/john_82:/bin/sh
+john_83:296924:1083:1083::/home/john_83:/bin/sh
+john_84:214463:1084:1084::/home/john_84:/bin/sh
+john_85:235464:1085:1085::/home/john_85:/bin/sh
+john_89:277978:1089:1089::/home/john_89:/bin/sh
+john_91:105979:1091:1091::/home/john_91:/bin/sh
+john_93:920702:1093:1093::/home/john_93:/bin/sh
+john_94:924706:1094:1094::/home/john_94:/bin/sh
+john_95:668586:1095:1095::/home/john_95:/bin/sh
+john_96:385309:1096:1096::/home/john_96:/bin/sh
+john_97:019616:1097:1097::/home/john_97:/bin/sh
+john_99:032185:1099:1099::/home/john_99:/bin/sh
+john_100:310383:1100:1100::/home/john_100:/bin/sh
+
+66 password hashes cracked, 34 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.260s
+user	19m41.503s
+sys	0m2.543s
+john_20:092428:1020:1020::/home/john_20:/bin/sh
+john_24:157104:1024:1024::/home/john_24:/bin/sh
+john_26:136567:1026:1026::/home/john_26:/bin/sh
+john_30:055010:1030:1030::/home/john_30:/bin/sh
+john_45:016404:1045:1045::/home/john_45:/bin/sh
+john_46:192968:1046:1046::/home/john_46:/bin/sh
+john_48:120582:1048:1048::/home/john_48:/bin/sh
+john_82:119113:1082:1082::/home/john_82:/bin/sh
+john_97:019616:1097:1097::/home/john_97:/bin/sh
+john_99:032185:1099:1099::/home/john_99:/bin/sh
+
+10 password hashes cracked, 90 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.669s
+user	0m2.030s
+sys	0m0.080s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.246s
+user	19m44.950s
+sys	0m2.184s
+john_12:171829:1012:1012::/home/john_12:/bin/sh
+john_14:890208:1014:1014::/home/john_14:/bin/sh
+john_19:811127:1019:1019::/home/john_19:/bin/sh
+john_20:092428:1020:1020::/home/john_20:/bin/sh
+john_48:120582:1048:1048::/home/john_48:/bin/sh
+john_76:525467:1076:1076::/home/john_76:/bin/sh
+john_93:920702:1093:1093::/home/john_93:/bin/sh
+john_99:032185:1099:1099::/home/john_99:/bin/sh
+john_100:310383:1100:1100::/home/john_100:/bin/sh
+
+9 password hashes cracked, 91 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.256s
+user	19m44.611s
+sys	0m3.145s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt digitos/len6.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m1.787s
+user	19m46.190s
+sys	0m0.610s
+john_99:032185:1099:1099::/home/john_99:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.735s
+user	19m50.128s
+sys	0m0.729s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.475s
+user	1m0.161s
+sys	0m0.100s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.730s
+user	19m40.045s
+sys	0m0.629s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.676s
+user	19m50.522s
+sys	0m0.709s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt digitos/len7.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.271s
+user	19m47.649s
+sys	0m2.223s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.260s
+user	19m43.737s
+sys	0m2.733s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.739s
+user	0m2.215s
+sys	0m0.122s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.264s
+user	19m48.007s
+sys	0m1.852s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.255s
+user	19m45.114s
+sys	0m2.403s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt digitos/len7.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.706s
+user	19m42.455s
+sys	0m0.669s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.771s
+user	19m47.857s
+sys	0m0.452s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.726s
+user	1m1.053s
+sys	0m0.120s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.649s
+user	19m49.472s
+sys	0m0.719s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.757s
+user	19m50.712s
+sys	0m0.629s
+0 password hashes cracked, 100 left
++++++++++++++++++++++++++++++ Processing mayusculas dataset +++++++++++++++++++++++++++++ 
+
+---------------------------- md5crypt mayusculas/len3.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.264s
+user	19m33.427s
+sys	0m5.925s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.267s
+user	19m43.579s
+sys	0m2.332s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.652s
+user	0m1.995s
+sys	0m0.111s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.229s
+user	19m43.024s
+sys	0m2.936s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.303s
+user	19m43.280s
+sys	0m2.033s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt mayusculas/len3.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.777s
+user	19m50.182s
+sys	0m0.709s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.699s
+user	19m41.990s
+sys	0m0.869s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m16.871s
+user	1m5.468s
+sys	0m0.142s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.764s
+user	19m24.685s
+sys	0m4.247s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.666s
+user	19m42.089s
+sys	0m1.220s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt mayusculas/len4.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.252s
+user	19m39.203s
+sys	0m4.207s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.303s
+user	19m34.665s
+sys	0m5.000s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m1.147s
+user	0m3.249s
+sys	0m0.229s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.349s
+user	19m41.569s
+sys	0m2.696s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.243s
+user	19m43.433s
+sys	0m2.452s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt mayusculas/len4.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m2.756s
+user	19m45.413s
+sys	0m0.590s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.687s
+user	19m39.876s
+sys	0m0.599s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.796s
+user	1m1.035s
+sys	0m0.142s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.759s
+user	19m45.441s
+sys	0m0.829s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.754s
+user	19m49.550s
+sys	0m0.759s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt mayusculas/len5.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m2.323s
+user	19m51.580s
+sys	0m2.022s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.244s
+user	19m41.747s
+sys	0m2.933s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.772s
+user	0m2.205s
+sys	0m0.091s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m1.256s
+user	19m39.216s
+sys	0m2.894s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.260s
+user	19m42.772s
+sys	0m1.961s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt mayusculas/len5.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.925s
+user	19m35.339s
+sys	0m2.245s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.789s
+user	19m43.679s
+sys	0m1.369s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m16.356s
+user	1m3.261s
+sys	0m0.130s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.818s
+user	19m38.260s
+sys	0m1.890s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.731s
+user	19m38.963s
+sys	0m1.889s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt mayusculas/len6.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m1.259s
+user	19m38.134s
+sys	0m4.597s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.252s
+user	19m32.523s
+sys	0m4.481s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.722s
+user	0m2.178s
+sys	0m0.095s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.294s
+user	19m38.333s
+sys	0m4.665s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m1.258s
+user	19m34.330s
+sys	0m5.231s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt mayusculas/len6.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.756s
+user	19m35.131s
+sys	0m2.751s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.694s
+user	19m43.709s
+sys	0m0.969s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m17.390s
+user	1m6.985s
+sys	0m0.219s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m2.816s
+user	19m44.477s
+sys	0m1.216s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.684s
+user	19m42.054s
+sys	0m1.399s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt mayusculas/len7.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m1.242s
+user	19m37.297s
+sys	0m2.964s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.294s
+user	19m41.432s
+sys	0m2.904s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.719s
+user	0m2.106s
+sys	0m0.082s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.254s
+user	19m36.818s
+sys	0m3.042s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.249s
+user	19m45.059s
+sys	0m2.593s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt mayusculas/len7.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m2.633s
+user	19m54.341s
+sys	0m0.649s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.684s
+user	19m44.588s
+sys	0m0.879s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.751s
+user	0m59.426s
+sys	0m0.120s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.670s
+user	19m45.356s
+sys	0m0.730s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m2.707s
+user	19m48.422s
+sys	0m0.649s
+0 password hashes cracked, 100 left
++++++++++++++++++++++++++++++ Processing minusculas dataset +++++++++++++++++++++++++++++ 
+
+---------------------------- md5crypt minusculas/len3.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.267s
+user	19m44.008s
+sys	0m2.776s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.242s
+user	19m28.445s
+sys	0m6.209s
+john_15:leo:1015:1015::/home/john_15:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.677s
+user	0m2.051s
+sys	0m0.112s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.249s
+user	19m40.473s
+sys	0m2.413s
+john_15:leo:1015:1015::/home/john_15:/bin/sh
+
+1 password hash cracked, 99 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.259s
+user	19m45.974s
+sys	0m2.313s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt minusculas/len3.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.726s
+user	19m44.045s
+sys	0m0.599s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.625s
+user	19m39.577s
+sys	0m0.999s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.714s
+user	1m1.129s
+sys	0m0.061s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.711s
+user	19m44.955s
+sys	0m0.730s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.710s
+user	19m42.616s
+sys	0m3.064s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt minusculas/len4.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.265s
+user	19m45.324s
+sys	0m2.886s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.253s
+user	19m43.677s
+sys	0m2.373s
+john_41:sonk:1041:1041::/home/john_41:/bin/sh
+john_67:sans:1067:1067::/home/john_67:/bin/sh
+
+2 password hashes cracked, 98 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.700s
+user	0m2.096s
+sys	0m0.110s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.246s
+user	19m40.495s
+sys	0m2.503s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.260s
+user	19m41.183s
+sys	0m3.204s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt minusculas/len4.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.642s
+user	19m40.397s
+sys	0m0.639s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.677s
+user	19m42.116s
+sys	0m0.749s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.925s
+user	1m1.878s
+sys	0m0.090s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m1.087s
+user	19m43.632s
+sys	0m0.889s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.736s
+user	19m46.400s
+sys	0m0.539s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt minusculas/len5.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m1.304s
+user	19m43.309s
+sys	0m3.096s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m4.250s
+user	19m52.711s
+sys	0m3.142s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.705s
+user	0m2.096s
+sys	0m0.120s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.304s
+user	18m49.451s
+sys	0m21.746s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m2.245s
+user	19m39.683s
+sys	0m3.063s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt minusculas/len5.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m1.726s
+user	19m41.149s
+sys	0m0.749s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.697s
+user	19m45.291s
+sys	0m0.741s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.720s
+user	1m1.203s
+sys	0m0.092s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m2.694s
+user	19m49.923s
+sys	0m0.779s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.660s
+user	19m46.897s
+sys	0m0.619s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt minusculas/len6.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.279s
+user	19m41.395s
+sys	0m2.582s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.244s
+user	19m41.857s
+sys	0m2.625s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.739s
+user	0m2.097s
+sys	0m0.108s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m1.263s
+user	19m46.759s
+sys	0m2.515s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.247s
+user	19m40.948s
+sys	0m2.734s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt minusculas/len6.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.683s
+user	19m48.663s
+sys	0m0.661s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m1.740s
+user	19m45.746s
+sys	0m0.823s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.616s
+user	1m0.703s
+sys	0m0.120s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m2.649s
+user	19m52.445s
+sys	0m0.779s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m1.047s
+user	19m47.011s
+sys	0m0.652s
+0 password hashes cracked, 100 left
+---------------------------- md5crypt minusculas/len7.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.270s
+user	19m45.610s
+sys	0m2.723s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.255s
+user	19m36.854s
+sys	0m2.673s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m0.681s
+user	0m2.074s
+sys	0m0.124s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.260s
+user	19m44.398s
+sys	0m2.172s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.250s
+user	19m40.354s
+sys	0m2.472s
+0 password hashes cracked, 100 left
+---------------------------- sha512crypt minusculas/len7.txt ----------------------------
+
+ • running strategy: --incremental=digits --min-length=3 --max-length=7
+
+real	5m0.726s
+user	19m45.035s
+sys	0m1.349s
+0 password hashes cracked, 100 left
+
+ • running strategy: --incremental=ascii --min-length=3 --max-length=7
+
+real	5m0.769s
+user	19m44.786s
+sys	0m0.749s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/500_pwds.txt
+
+real	0m15.592s
+user	1m0.510s
+sys	0m0.150s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt
+
+real	5m0.796s
+user	19m44.954s
+sys	0m0.669s
+0 password hashes cracked, 100 left
+
+ • running strategy: --wordlist=strategy_dictionaries/rockyou.txt --mask="?w?d?d"
+
+real	5m0.753s
+user	19m44.967s
+sys	0m0.609s
+0 password hashes cracked, 100 left
